@@ -3,7 +3,7 @@ import Navbar from "./component/navbar";
 import {Container, Row, Col} from 'react-bootstrap';
 export default function Index() {
   return <>
-    <Navbar />
+    <Menu />
     <Container>
       <Row>
         <Col className="grad">1 of 2</Col>
