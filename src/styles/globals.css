@@ -1,9 +1,5 @@
 @import 'bootstrap/dist/css/bootstrap.min.css';
+
 .grad{
-    background: linear-gradient(0deg, rgba(14,210,213,1) 6%, rgba(172,77,240,1) 100%);
+    background: linear-gradient(180deg, rgba(50,51,49,1) 0%, rgba(121,189,209,1) 100%);
 }
-
-.grad1{
-    background: radial-gradient(circle, rgba(195,17,95,1) 0%, rgba(253,233,255,1) 100%);
-}
-
